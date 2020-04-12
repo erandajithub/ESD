@@ -8,6 +8,8 @@ Wellcome to kitchen
 kheer
 Pasta
 Chicken fry
+Beans 
+Pizza
 
 
 
